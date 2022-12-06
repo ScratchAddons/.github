@@ -1,9 +1,10 @@
 # Scratch Addons
 
-<img src="https://raw.githubusercontent.com/ScratchAddons/ScratchAddons/master/images/icon.svg" alt="Scratch Addons logo" align="right" width="128px"></img>
-Scratch Addons is a browser extension that provides new features and themes for the Scratch website and project editor. It has a mission to collect, archive, and put into use userstyles and userscripts, developed by several members of the Scratch community.
-
+<img src="https://raw.githubusercontent.com/ScratchAddons/ScratchAddons/master/images/icon.svg" alt="Scratch Addons logo" align="right" width="96px"></img>
+Scratch Addons is a browser extension that provides new features and themes for the Scratch website and project editor. It has a mission to collect, archive, and put into use userstyles and userscripts, developed by several members of the Scratch community.<!-- 2 spaces -->  
+<sub><sup>
 Scratch Addons is not affiliated, associated, or in any way officially connected with the Scratch website or the organizations that maintain it.
+</sup></sub>
 
 ## Scratch Addons browser extension
 
