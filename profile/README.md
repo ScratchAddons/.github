@@ -41,6 +41,6 @@ Useful links for contributors:
 
 **Website available at:** [ScratchAddons.com](https://scratchaddons.com), [ScratchAddons.org](https://scratchaddons.org)
 
-**Relevant links:** [Website analytics](https://scratchaddons.com/analytics) | [Help-wanted issues](https://github.com/ScratchAddons/website-v2/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted)
+**Relevant links:** [Website analytics](https://scratchaddons.com/analytics) | [Help-wanted issues](https://github.com/ScratchAddons/website-v2/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 **Related GitHub repositories:** [website-i18n](https://github.com/ScratchAddons/website-i18n) | [website-v2-script](https://github.com/ScratchAddons/website-v2-script)
