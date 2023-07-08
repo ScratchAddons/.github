@@ -39,7 +39,7 @@ Shortcuts for contributors:
 
 **GitHub repository:** [📁 ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) | [ℹ️ README](https://github.com/ScratchAddons/website-v2#readme) | [📝 Issues](https://github.com/ScratchAddons/website-v2/issues) | [💫 Pull requests](https://github.com/ScratchAddons/website-v2/pulls) | [👥 Discussions](https://github.com/ScratchAddons/ScratchAddons/discussions) | [📖 Wiki](https://github.com/ScratchAddons/website-v2/wiki)
 
-**Website available at:** [🌐 ScratchAddons.com](https://scratchaddons.com), [ScratchAddons.org](https://scratchaddons.org)
+**Website available at:** [ScratchAddons.com](https://scratchaddons.com), [ScratchAddons.org](https://scratchaddons.org)
 
 **Relevant links:** [📈 Website analytics](https://scratchaddons.com/analytics) | [👋 Help-wanted issues](https://github.com/ScratchAddons/website-v2/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
