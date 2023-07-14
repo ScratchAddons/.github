@@ -29,7 +29,7 @@ Useful links for contributors:
 
 **Install extension:** [Chrome Web Store](https://chrome.google.com/webstore/detail/fbeffbjdlemaoicjdapfpikkikjoneco) | [Add-ons for Firefox](https://addons.mozilla.org/firefox/addon/scratch-messaging-extension/) | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/iliepgjnemckemgnledoipfiilhajdjj) | [Installing from source](https://scratchaddons.com/docs/getting-started/installing#from-source)
 
-**Ongoing and planned work:** ["What's Happening?" board](https://github.com/orgs/ScratchAddons/projects/1/views/1) | [Milestones](https://github.com/ScratchAddons/ScratchAddons/milestones?direction=asc&sort=due_date&state=open) | [Recently merged PRs](https://github.com/ScratchAddons/ScratchAddons/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+NOT+%22translation+update%22) | [Changelog](https://scratchaddons.com/changelog)
+**Ongoing and planned work:** [Milestones](https://github.com/ScratchAddons/ScratchAddons/milestones?direction=asc&sort=due_date&state=open) | [Recently merged PRs](https://github.com/ScratchAddons/ScratchAddons/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc+NOT+%22translation+update%22) | [Changelog](https://scratchaddons.com/changelog)
 
 **Relevant links:** [Developer docs](https://scratchaddons.com/docs/develop/) | [Translating Scratch Addons](https://scratchaddons.com/translate) | [FAQ](https://scratchaddons.com/docs/faq/) | [Scratch forum posts by SA users](https://scratchaddons.com/forum-posts) | [List of addons](https://scratchaddons.com/addons)
 
